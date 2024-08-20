@@ -12,4 +12,4 @@ The "Scan With Nmap" project is designed to help users learn how to perform netw
 
 ## Contents
 - **`scan_report.txt`**: A sample report generated from a Nmap scan.
-- **`Basic Network Scanning with Nmap.pdf`**: A sample report containing all the process and commands used with pictures.
+- **`Basic-Network-Scanning-with-Nmap.pdf`**: A sample report containing all the process and commands used with pictures.
