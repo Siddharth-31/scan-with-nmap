@@ -12,11 +12,4 @@ The "Scan With Nmap" project is designed to help users learn how to perform netw
 
 ## Contents
 - **`scan_report.txt`**: A sample report generated from a Nmap scan.
-
-## How It Works
-The provided script automates the process of running Nmap scans on specified network ranges or IP addresses. It captures the output and formats it into a readable report.
-
-### Process Flow
-1. The script runs Nmap with user-defined parameters.
-2. Nmap performs the scan and returns results on discovered hosts and open ports.
-3. The script parses Nmap's output and generates a report (`report.txt` or similar).
+- **`Basic Network Scanning with Nmap.pdf`**: A sample report containing all the process and commands used with pictures.
